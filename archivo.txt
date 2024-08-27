@@ -1,2 +1,0 @@
-mi primer archivo en git 
-crear un git
